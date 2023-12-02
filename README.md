@@ -5,7 +5,7 @@
 
 # Execução
 
- Para a excução do código é necessário algum programa com suporte para a execução de arquivos .ipynb como o google collab, além disso é necessário importar os arquivos da pasta ```dataset``` para a execução correta do programa. Caso queira executar o programa no google collab não é necessário baixar as bibliotecas: NetworkX,Matplotlib e Pandas; porém caso utilize de outro programa, essas bibliotecas podem ser baixadas através dos seguintes comandos:
+ Para a excução do código é necessário algum programa com suporte para a execução de arquivos .ipynb como o google collab ou visual studio code com a extensão jupyter, além disso é necessário importar os arquivos da pasta ```dataset``` para a execução correta do programa. Caso queira executar o programa no google collab não é necessário baixar as bibliotecas: NetworkX,Matplotlib e Pandas; porém caso utilize de outro programa, essas bibliotecas podem ser baixadas através dos seguintes comandos:
 
 |Biblioteca | Comando | 
 |----------|----------|
