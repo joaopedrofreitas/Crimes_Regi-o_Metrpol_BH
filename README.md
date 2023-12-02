@@ -18,11 +18,12 @@
 # Código no Google Collab
 <a href="https://colab.research.google.com/drive/1SZiC3Cq7CSK48XOg5SKxPqXS1dXLyknN?usp=sharing"> TP3_AEDS2</a>  , para o funcionomento completo do codigo, é necessário baixar os arquivos da pasta ```dataset```, ir no canto esquerdo do Google colab na aba de arquivos:
 
-![aba de arquivos](img\exemplo_arquivos.png)
+<img src="img\exemplo_arquivos.png" width="10%">
+</div>
 
 Ir na opção de Fazer upload para o armazenamento da sessão:
 
-![aba de upload](img\exemplo_arquivos2.png)
+<img src="img\exemplo_arquivos2.png" width="20%">
 
 E carregar os 2 arquivos da pasta ```dataset```. Logo após esses passos o usuario pode executar os notebooks.
 
